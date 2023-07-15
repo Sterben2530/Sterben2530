@@ -1,16 +1,18 @@
-### Hi there 👋
+Steven Atoche - @Sterben2530
 
-<!--
-**Sterben2530/Sterben2530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Steven - a dedicated student enrolled in the Economics program at PUCP. As he eagerly anticipates entering the job market next year, he is determined to secure a rewarding position where he can contribute meaningfully and make a difference."
 
-Here are some ideas to get you started:
+My values
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social Responsibility
+Resilience and Perseverance
+Integrity and Ethics
+Empathy and Compassion
+
+How I work
+
+While I may not be the most social person, I value deep connections with a select few individuals. I believe in the power of meaningful conversations and quality interactions over superficial small talk. Don't be surprised if I prefer one-on-one settings or quieter environments where I can truly engage and connect with others on a more personal level.
+
+Get in touch
+
+- Twitter: https://twitter.com/AtocheSteven?t=2V8OJjei86H0C_F-cAQcSw&s=09
