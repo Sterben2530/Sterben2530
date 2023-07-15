@@ -2,6 +2,10 @@
 
 Hi, I'm Steven - a dedicated student enrolled in the Economics program at PUCP. As I eagerly anticipates entering the job market next year, I am determined to secure a rewarding position where I can contribute meaningfully and make a difference.
 
+##  Lenguajes de programación
+
+I have a strong command of Python, using it for various automation and data analysis tasks. I take advantage of Python's extensive libraries and frameworks to extract, clean, and analyze data, as well as create machine learning models and visualizations. In addition to Python, I am proficient in R, using it for statistical computing and data analysis. I also know how to use EViews, I use EViews to explore time series data, estimate econometric models, and evaluate economic relationships. With a comprehensive understanding of Python, R, and EViews, I am well-equipped to tackle various analytical challenges, employing the most appropriate tools and techniques for each project's requirements.
+
 ## My values :fire:
 
 - Social Responsibility
