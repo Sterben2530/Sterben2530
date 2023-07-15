@@ -1,6 +1,6 @@
 ## Steven Atoche - @Sterben2530
 
-Hi, I'm Steven - a dedicated student enrolled in the Economics program at PUCP. As he eagerly anticipates entering the job market next year, he is determined to secure a rewarding position where he can contribute meaningfully and make a difference."
+Hi, I'm Steven - a dedicated student enrolled in the Economics program at PUCP. As I eagerly anticipates entering the job market next year, I am determined to secure a rewarding position where I can contribute meaningfully and make a difference.
 
 ## My values :fire:
 
